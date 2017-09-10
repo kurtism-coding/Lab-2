@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99144421-cf43-4253-b62e-3d83447e1b37" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/bin/JoesCoffeeStore.Web.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/bin/JoesCoffeeStore.Web.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/fonts/Lobster_1.3.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/images/coffee/coffee1-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/images/coffee/coffee1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/images/coffeeheader.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/images/coffeeheader.old.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/images/cotm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/images/cotm.old.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/images/logo.large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/obj/Debug/JoesCoffeeStore.Web.csprojResolveAssemblyReference.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/obj/Debug/JoesCoffeeStore.Web.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/obj/Debug/JoesCoffeeStore.Web.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/video/movie.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/video/movie.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/JoesCoffeeStore.Web.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/JoesCoffeeStore.Web.csproj.user" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/Styles/Layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/Web.Debug.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/Web.Release.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/allcoffees.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/bin/JoesCoffeeStore.Web.dll.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/checkout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/coffeedetails.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/findus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/obj/Debug/JoesCoffeeStore.Web.csproj.FileListAbsolute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/scripts/canvasChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/scripts/dragAndDrop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/scripts/geopositioning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/scripts/localstorage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JoesCoffeeStore.Web/scripts/videoplayer.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="21" />
+    <option name="y" value="97" />
+    <option name="width" value="1399" />
+    <option name="height" value="676" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="JoesCoffeeStore.Web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="JoesCoffeeStore.Web" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99144421-cf43-4253-b62e-3d83447e1b37" name="Default" comment="" />
+      <created>1505011755011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505011755011</updated>
+      <workItem from="1505011756219" duration="110000" />
+      <workItem from="1505011872516" duration="827000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="937000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="21" y="97" width="1399" height="676" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963716" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32874355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practical-html5/1-practical-html5-m1-skeleton-exercise-files/Mockups/index.bmml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practical-html5/1-practical-html5-m1-skeleton-exercise-files/Demo 1/JoesCoffeeStore.Web/JoesCoffeeStore.Web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practical-html5/1-practical-html5-m1-skeleton-exercise-files/Demo 2/After/JoesCoffeeStore.Web/JoesCoffeeStore.Web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practical-html5/1-practical-html5-m1-skeleton-exercise-files/Demo 1/Demo 1 script.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
